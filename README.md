@@ -1,21 +1,8 @@
-# Дмитро · s8kur
+# s8kur
 
-Сайти та Telegram-боти для місцевого бізнесу: салони, майстри, СТО.
+**Full-Stack Developer // Software Engineer**
 
-## Стек
+Independent developer from Ukraine, focused on building efficient, reliable, and maintainable software.
 
-Python, aiogram, SQLite, HTML/CSS/JS, GitHub Pages.
+I work across the entire stack, from modern web applications and backend systems to infrastructure, automation, and developer tooling.
 
-## Приклади робіт
-
-Приклади сайтів (демо для місцевих закладів):
-
-- (https://sikurdev.github.io/demo-sites/atmosphere-izmail/)
-- (https://sikurdev.github.io/demo-sites/salon-lyza-kiliia/)
-- (https://sikurdev.github.io/demo-sites/shynomontazh-reifen-doichev-izmail/)
-
-Демо-бот запису: [t.me/s8kur_demo_booking_bot](https://t.me/s8kur_demo_booking_bot) (код: [github.com/sikurdev/tg-booking-bot](https://github.com/sikurdev/tg-booking-bot))
-
-## Контакт
-
-Telegram: [t.me/s8kur](https://t.me/s8kur)
